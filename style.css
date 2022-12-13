@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  box-sizing: border-box;
+  border: 2px solid black;
+  width: 520px;
+  justify-content: center;
+}
+
+.picture {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.text {
+  max-width: 500px;
+  text-align: justify;
+}
+.text h2 {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
